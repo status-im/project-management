@@ -12,5 +12,7 @@ Attendance: Andrei, Denis, Anna, Vic, Andrey, Oskar, Julien, Goran
 	— Username registration (epic: ENS Usernames)
 - need a follow up call with the wallet squad and approve the Wallet UI acceptance and breakdow - Vic
 - need to add mockup for the wallet to change default currency
+- add discover improvements issue - Vic
+- add new issue for updated icons and the bottom bar
 - confirmed using the system activity indicator (animation for lenghty operations)
 - next call is on Wednesday
